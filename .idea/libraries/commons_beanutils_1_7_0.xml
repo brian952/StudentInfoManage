@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-collections-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-collections.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jsp&amp;Servlet入门级项目全程实录源码/11-2/jsonlib/json-lib-2.2.3-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
